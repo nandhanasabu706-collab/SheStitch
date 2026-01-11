@@ -10,4 +10,6 @@
 # Libraries,APIs or AI Model used : CSS , JavaScript,ChatGPT
 # Brief explanation of the implementation : SheStitch is implemented as a frontend web application using HTML, Tailwind CSS, and JavaScript. It uses a rule-based AI system to analyze customer measurements and preferences, generate design, fit, and quality suggestions, and guide users through order placement, payment, and delivery tracking, ensuring transparency and empowerment for women tailors.
 # Installation and Execution : The project is implemented as a simple web application that does not require any installation. Users can run it by opening the main HTML file in a web browser, where all features execute locally using JavaScript. Styling and icons are loaded through online libraries, and the application can be easily deployed on any standard web hosting platform
-# website : 
+# website : https://nandhanasabu706-collab.github.io/Threads
+                                                        
+
